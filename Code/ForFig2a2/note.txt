@@ -1,0 +1,1 @@
+The code of main and networkparameter for Fig2a2. The other code is the same as in ForFig2a1.
